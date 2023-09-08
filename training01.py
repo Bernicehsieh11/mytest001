@@ -10,7 +10,7 @@ else:
 
 #創建一個包含五個整數的 Python 列表，然後遍歷該列表，並將每個整數加 10 後輸出。
 
-intList = [2, 6, 2, 4, 8]
+intList = [2, 6, 2, 3, 8]
 for i in range(len(intList)):
     intList[i] += 10  # 將每個整數加 10
 print(intList)
